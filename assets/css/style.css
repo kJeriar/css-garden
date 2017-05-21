@@ -1,0 +1,88 @@
+{
+	margin: 0px;
+}
+
+body{
+
+	font-family: 150% 'sans-serif', cursive;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: #8EC641;
+	text-align: justify;
+
+}
+
+header{
+	color: #FFFF99;
+	background: url(../img/fondo-00.png);
+	background-size: cover;
+	background-position: center;
+	padding: 50px 0;
+	font-family: cursive;
+	/*transformar la letra a mayuscula*/
+	text-transform: uppercase;
+	border: 15px solid #993399;
+	padding: 15px;
+}
+
+.summary{
+
+	text-align: left;
+	padding: 0 30px;
+	background-color: #FFFFCC;
+	border: 5px solid white;
+	border-radius: 5px;
+}
+
+.preamble{
+	color: #663300;
+	background: url(../img/flores-2.png);
+	text-align: center;
+	padding: 0 30px;
+	border: 20px solid;
+	margin-top: 25px;
+
+}
+/*dividir secciones*/
+.preamble, .participation, .requirements{
+
+	color: #660099;
+	padding: 25px;
+	border: 15px solid;
+	-webkit-box-shadow: 5px 5px 5px 5px rgba(30, 30, 30, 0);
+	margin-top: 40px;
+	background: url(../img/flores-2.jpg);
+
+}
+
+
+
+.explanation, .benefits{
+
+	color: #663333;
+	padding: 25px;
+	border: 15px solid;
+	-webkit-box-shadow: 5px 5px 5px 5px rgba(30, 30, 30, 0);
+	margin-top: 40px;
+	background: url(../img/flores-5.jpg);
+	background-position: center;
+	text-align: center;
+
+
+}
+
+ .sidebar{
+ 	background-color: #ffffcc;
+ 	text-align: center;
+ 	padding: 40px;
+ 	border: 20px solid;
+ 	margin-top: 15px;
+
+ }
+
+.intro{
+	text-align:center;
+}
+
+
+
